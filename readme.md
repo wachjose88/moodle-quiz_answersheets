@@ -1,5 +1,7 @@
 # Export quiz attempts report
 
+*This fork will implement printing to PDF.*
+
 This 'report' is actually a tool like the standard Response quiz report, 
 but which lets Staff to generate a paper version of quizzes and create attempts
 for Students.
